@@ -1,21 +1,21 @@
 # E-commerce-Cart-made-in-PHP-8.2-OOP-MVC-Composer-and-PDO
 
-A simple Cart build in PHP 8.2 OOP \n
-For run this project, you can clone ou donwload, run update composer in the folder \n
-Create a database "users" and use a database the accepted PDO connections \n
+A simple Cart build in PHP 8.2 OOP <br>
+For run this project, you can clone ou donwload, run update composer in the folder <br>
+Create a database "users" and use a database the accepted PDO connections <br>
 Here is a sql example of the DB \n
 
 <hr>
 
-create table products (\n
-   id int(11) NOT NULL AUTO_INCREMENT,\n
-   name VARCHAR(250),\n
-   price VARCHAR(250),\n
-   PRIMARY KEY (id)\n
+create table products ( <br>
+   id int(11) NOT NULL AUTO_INCREMENT, <br>
+   name VARCHAR(250), <br>
+   price VARCHAR(250), <br>
+   PRIMARY KEY (id) <br>
 
-);\n
+); <br>
 
-Here is a example, of how the cart works\n
+Here is a example, of how the cart works <br>
 
 <hr>
 
