@@ -1,0 +1,15 @@
+{
+  "name": "pc1/cart-oop",
+  "autoload": {
+    "psr-4": {
+      "app\\": "app"
+    }
+  },
+  "authors": [
+    {
+      "name": "Guilherme Machado",
+      "email": "gui_lherme00k@hotmail.com"
+    }
+  ],
+  "require": {}
+}
